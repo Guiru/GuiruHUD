@@ -2448,6 +2448,59 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		OptimusPrincepsSemiBold12
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		OptimusPrincepsSemiBold16
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		OptimusPrincepsSemiBold20
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		OptimusPrincepsSemiBold24
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		OptimusPrincepsSemiBold28
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		OptimusPrincepsSemiBold32
+		{
+			"1"
+			{
+				"name"		"OptimusPrinceps"
+				"tall"		"32"
+				"antialias" "1"
+			}
 
 	}
 	

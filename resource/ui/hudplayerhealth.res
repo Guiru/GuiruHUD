@@ -1,13 +1,13 @@
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
-	"HudPlayerHealth"
+	"HudPlayerHealth" //Parametros que controlan la posicion y el tamaño del rectangulo que contiene la salud.
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"90"		[$WIN32]
+		"xpos"			"c-225"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"100"	[$WIN32]
+		"ypos"			"c150"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"OptimusPrinceps16"
+		"font"			"OptimusPrinceps28"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
